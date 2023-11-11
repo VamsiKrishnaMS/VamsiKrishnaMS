@@ -12,7 +12,7 @@
 
 💼 Professional Background 💼
 
-- As a Researcher, I have been on a fascinating quest to explore the limitless possibilities of Augmented Reality. 
+- As a Researcher, I have been on a fascinating quest to explore the limitless possibilities in the software field. 
 - My dedication to the field has led me to investigate new applications and technologies that have the potential to revolutionize industries. 
 - I thrive on converting theoretical concepts into practical solutions that make a real-world impact.
 - As a seasoned Software Engineer, I have honed my skills in an array of programming languages and technologies.
