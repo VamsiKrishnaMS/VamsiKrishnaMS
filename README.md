@@ -1,4 +1,4 @@
-                                                                          **ABOUT MYSELF**
+                                                                      **ABOUT MYSELF**
 
 - I am a passionate and dedicated Researcher and Software Engineer with expertise in cutting-edge technologies in the software field. 
 - My journey in the realm of technology has led me to delve into various areas, including Angular, TypeScript/JavaScript, HTML, CSS, jQuery, Python, C, and C++.
